@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Efedogdu
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning MVC-HTML-CSS
+- 🌱 I’m currently learning .NET ASP - HTML - CSS
 - 💞️ I’m looking to collaborate on Js
 - 📫 How to reach me efe.dogdu@samtel.net (easiest way)
 
